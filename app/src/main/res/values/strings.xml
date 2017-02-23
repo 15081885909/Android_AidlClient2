@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_AidlClient</string>
+    <string name="removeBind">解绑服务</string>
+    <string name="bind_service">绑定服务</string>
+</resources>
